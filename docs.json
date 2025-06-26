@@ -1,0 +1,232 @@
+{
+    "$schema": "https://mintlify.com/docs.json",
+    "theme": "maple",
+    "name": "Inovus Labs Knowledge Base",
+    "colors": {
+        "primary": "#0D9373",
+        "light": "#55D799",
+        "dark": "#0D9373"
+    },
+    "favicon": "/favicon.svg",
+    "icons": {
+        "library": "lucide"
+    },
+    "navigation": {
+        "dropdowns": [
+            {
+                "dropdown": "Inovus Labs Docs",
+                "icon": "book",
+                "description": "Explore the complete Knowledge Base",
+                "groups": [
+                    {
+                        "group": "Introduction",
+                        "pages": [
+                            "introduction/what-is-inovus",
+                            "introduction/quick-snapshot",
+                            "introduction/official-links"
+                        ]
+                    },
+                    {
+                        "group": "Vision & Philosophy",
+                        "pages": [
+                            "vision-philosophy/mission",
+                            "vision-philosophy/vision",
+                            "vision-philosophy/objectives",
+                            "vision-philosophy/core-ideals",
+                            "vision-philosophy/philosophy",
+                            "vision-philosophy/manifesto"
+                        ]
+                    },
+                    {
+                        "group": "History & Evolution",
+                        "pages": [
+                            "history/founding-story",
+                            "history/timeline",
+                            "history/bannermen"
+                        ]
+                    },
+                    {
+                        "group": "Structure & Roles",
+                        "pages": [
+                            "structure/iedc-guidelines",
+                            "structure/execom",
+                            "structure/alumni-roles"
+                        ]
+                    },
+                    {
+                        "group": "Key Activities",
+                        "pages": [
+                            "activities/weekend-workbench",
+                            "activities/workshops",
+                            "activities/internal-hackathons",
+                            "activities/open-source",
+                            "activities/blog",
+                            "activities/podcast",
+                            "activities/outreach",
+                            "activities/nanodegree",
+                            "activities/community-resources"
+                        ]
+                    },
+                    {
+                        "group": "Signature Projects",
+                        "pages": [
+                            "projects/campus-positioning-system",
+                            "projects/iot-lab-inventory-app",
+                            "projects/certificate-validator",
+                            "projects/ama-platform",
+                            "projects/event-registration",
+                            "projects/buggy-project",
+                            "projects/iot-mini-lab",
+                            "projects/major-builds",
+                            "projects/sound-thoma-chacko-mash",
+                            "projects/inovus-api-inomail-scrapbook"
+                        ]
+                    },
+                    {
+                        "group": "Technologies & Tools",
+                        "pages": [
+                            "technologies/overview"
+                        ]
+                    },
+                    {
+                        "group": "Community & Membership",
+                        "pages": [
+                            "community/participation",
+                            "community/alumni-network",
+                            "community/joining-process"
+                        ]
+                    },
+                    {
+                        "group": "Achievements & Recognition",
+                        "pages": [
+                            "achievements/product-launches",
+                            "achievements/hackathon-wins",
+                            "achievements/karma-club",
+                            "achievements/media-press"
+                        ]
+                    },
+                    {
+                        "group": "Events & Outreach",
+                        "pages": [
+                            "events/recurring",
+                            "events/outreach"
+                        ]
+                    },
+                    {
+                        "group": "IoT Lab & Inventory",
+                        "pages": [
+                            "iot-lab/mini-lab",
+                            "iot-lab/inventory-system"
+                        ]
+                    },
+                    {
+                        "group": "Learning Resources",
+                        "pages": [
+                            "learning/portal",
+                            "learning/nanodegree"
+                        ]
+                    },
+                    {
+                        "group": "Reports & Documentation",
+                        "pages": [
+                            "reports/annual",
+                            "reports/sops-guidelines"
+                        ]
+                    },
+                    {
+                        "group": "Media Presence",
+                        "pages": [
+                            "media/social",
+                            "media/press"
+                        ]
+                    },
+                    {
+                        "group": "Fun Facts",
+                        "pages": [
+                            "fun-facts"
+                        ]
+                    },
+                    {
+                        "group": "AMA Sample Questions",
+                        "pages": [
+                            "ama/sample-questions"
+                        ]
+                    },
+                    {
+                        "group": "Reference Documents",
+                        "pages": [
+                            "references/auto-rag-indexing"
+                        ]
+                    },
+                    {
+                        "group": "Frequently Used Terms",
+                        "pages": [
+                            "terms"
+                        ]
+                    },
+                    {
+                        "group": "AutoRAG System Prompt",
+                        "pages": [
+                            "auto-rag/system-prompt"
+                        ]
+                    },
+                    {
+                        "group": "Disclaimer",
+                        "pages": [
+                            "disclaimer"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "logo": {
+        "light": "/logo/light.svg",
+        "dark": "/logo/dark.svg",
+        "href": "https://inovuslabs.org"
+    },
+    "navbar": {
+        "links": [
+            {
+                "label": "Inovus Website",
+                "href": "https://inovuslabs.org"
+            }
+        ],
+        "primary": {
+            "type": "button",
+            "label": "Join Inovus",
+            "href": "https://inovuslabs.org/join"
+        }
+    },
+    "footer": {
+        "socials": {
+            "x": "https://twitter.com/inovuslabs",
+            "linkedin": "https://www.linkedin.com/company/inovuslabs",
+            "github": "https://github.com/inovuslabs",
+            "instagram": "https://instagram.com/inovuslabs"
+        },
+        "links": [
+            {
+                "header": "Quick Links",
+                "items": [
+                    {
+                        "label": "Website",
+                        "href": "https://inovuslabs.org"
+                    },
+                    {
+                        "label": "Blog",
+                        "href": "https://inovuslabs.org/blog"
+                    },
+                    {
+                        "label": "Podcast",
+                        "href": "https://inovuslabs.org/podcast"
+                    },
+                    {
+                        "label": "GitHub",
+                        "href": "https://github.com/inovuslabs"
+                    }
+                ]
+            }
+        ]
+    }
+}
