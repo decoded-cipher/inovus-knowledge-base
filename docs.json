@@ -19,11 +19,79 @@
         "description": "Explore the complete Knowledge Base",
         "groups": [
           {
-            "group": "Introduction",
+            "group": "Getting Started",
             "pages": [
-              "introduction/what-is-inovus",
-              "introduction/quick-snapshot",
-              "introduction/official-links"
+              "getting-started/introduction",
+              "getting-started/vision-philosophy",
+              "getting-started/manifesto",
+              "getting-started/history-evolution",
+              "getting-started/structure-roles",
+              "getting-started/community-membership",
+              "getting-started/contact-joining"
+            ]
+          },
+          {
+            "group": "Activities",
+            "pages": [
+              "activities/key-activities",
+              "activities/weekend-workbench",
+              "activities/workshops-events",
+              "activities/outreach-programs",
+              "activities/recurring-events",
+              "activities/inora-podcast",
+              "activities/blogging-knowledge"
+            ]
+          },
+          {
+            "group": "Projects",
+            "pages": [
+              "projects/signature-projects",
+              "projects/campus-positioning",
+              "projects/iot-lab-inventory",
+              "projects/certificate-validator",
+              "projects/ama-platform",
+              "projects/atom-ev",
+              "projects/iot-mini-lab",
+              "projects/hardware-software-projects"
+            ]
+          },
+          {
+            "group": "Learning",
+            "pages": [
+              "learning/nanodegree-programs",
+              "learning/learning-resources"
+            ]
+          },
+          {
+            "group": "Tech Stack",
+            "pages": [
+              "tech-stack/technologies-tools"
+            ]
+          },
+          {
+            "group": "Achievements",
+            "pages": [
+              "achievements/achievements-recognition",
+              "achievements/reports-documentation"
+            ]
+          },
+          {
+            "group": "Media",
+            "pages": [
+              "media/social-media",
+              "media/gallery-showcase",
+              "media/news-press"
+            ]
+          },
+          {
+            "group": "Reference",
+            "pages": [
+              "reference/fun-facts",
+              "reference/frequently-used-terms",
+              "reference/ama-sample-questions",
+              "reference/reference-documents",
+              "reference/autorag-system-prompt",
+              "reference/disclaimer"
             ]
           }
         ]
@@ -52,7 +120,7 @@
     "socials": {
       "x": "https://x.com/inovuslabs",
       "linkedin": "https://linkedin.com/company/inovuslabs",
-      "github": "https://github.com/inovuslabs",
+      "github": "https://github.com/inovus-labs",
       "instagram": "https://instagram.com/inovuslabs"
     },
     "links": [
