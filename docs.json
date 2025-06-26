@@ -7,7 +7,7 @@
     "light": "#55D799",
     "dark": "#0D9373"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "https://inovuslabs.org/favicon.ico",
   "icons": {
     "library": "lucide"
   },
@@ -31,9 +31,9 @@
     ]
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg",
-    "href": "https://inovuslabs.org"
+    "light": "https://inovuslabs.org/assets/logo.svg",
+    "dark": "https://inovuslabs.org/assets/logo.svg",
+    "href": "https://docs.inovuslabs.org"
   },
   "navbar": {
     "links": [
@@ -50,8 +50,8 @@
   },
   "footer": {
     "socials": {
-      "x": "https://twitter.com/inovuslabs",
-      "linkedin": "https://www.linkedin.com/company/inovuslabs",
+      "x": "https://x.com/inovuslabs",
+      "linkedin": "https://linkedin.com/company/inovuslabs",
       "github": "https://github.com/inovuslabs",
       "instagram": "https://instagram.com/inovuslabs"
     },
@@ -73,7 +73,7 @@
           },
           {
             "label": "GitHub",
-            "href": "https://github.com/inovuslabs"
+            "href": "https://github.com/inovus-labs"
           }
         ]
       }
