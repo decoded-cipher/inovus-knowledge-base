@@ -19,6 +19,15 @@
         "description": "Explore the complete Knowledge Base",
         "groups": [
           {
+            "group": "Foundation",
+            "pages": [
+              "foundation/origin-story",
+              "foundation/philosophy",
+              "foundation/community",
+              "foundation/initiatives"
+            ]
+          },
+          {
             "group": "Getting Started",
             "pages": [
               "getting-started/introduction",
