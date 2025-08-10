@@ -26,18 +26,6 @@
               "core/community",
               "core/initiatives"
             ]
-          },
-          {
-            "group": "Getting Started",
-            "pages": [
-              "getting-started/introduction",
-              "getting-started/vision-philosophy",
-              "getting-started/manifesto",
-              "getting-started/history-evolution",
-              "getting-started/structure-roles",
-              "getting-started/community-membership",
-              "getting-started/contact-joining"
-            ]
           }
         ]
       }
